@@ -12,9 +12,4 @@ class Expense (
 
 
 )
-//{
-//    fun toString(): String {
-//        return "Expense(id=$id, amount=$amount, description='$description', category='$category', image='$image', date=$date)"
-//    }
-//}
 
